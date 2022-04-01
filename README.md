@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Longfei Hua.
-- 📫 You can email to me through `hualongfeiyyy@163.com`.
+- 📫 You can email to me through **`hualongfeiyyy@163.com`**.
 - 💾 **My container image repository is [Quay.io for alberthua](https://quay.io/user/alberthua).**
 - 💎 **My technology docs is on [Tech Docs (Alberthua 的共享技术文档)](https://github.com/Alberthua-Perl/tech-docs/blob/master/README.md).**
 - 👨‍💻 I'm trying my best to learn linux kernel 🐧, container 🐳 and cloud native technologies, golang.

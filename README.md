@@ -1,4 +1,4 @@
-**⚠⚠⚠ 通知：由于近期部分仓库升级与重构导致文档中的链接失效，请及时与我联系🐱‍💻（邮箱在下方⬇）**
+**⚠⚠⚠ 公告：由于近期部分仓库升级与重构可能导致文档中的链接失效，如若发现请及时与我联系🐱‍💻，谢谢（邮箱在下方⬇）**
 - 👋 Hi, I'm Longfei Hua.
 - 📫 You can email to me through **`hualongfeiyyy@163.com`**.
 - 💾 **My container image repository is [Quay.io for alberthua](https://quay.io/user/alberthua).**

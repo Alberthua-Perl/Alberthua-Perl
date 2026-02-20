@@ -1,11 +1,9 @@
-- 🔥 **【公告】由于近期部分仓库升级与重构可能导致文档中的链接失效，如若发现请及时与我联系🐱‍💻，谢谢（邮箱在下方⬇）。**
-- 🔊 **【留言】对 [共享技术文档](https://github.com/Alberthua-Perl/tech-docs/blob/master/README.md) 的任何反馈与建议，欢迎在 [此处](https://github.com/Alberthua-Perl/tech-docs/issues) 讨论，期望听到您的声音。🎉**
-- 👋 Hi, I'm Longfei Hua.
+- 🔊 **【留言】对共享技术文档 [Linux 修行之道](https://github.com/Alberthua-Perl/tech-docs/blob/master/README.md) 的任何反馈与建议，欢迎在 [此处](https://github.com/Alberthua-Perl/tech-docs/issues) 讨论。🎉**
+- 👋 Hi, I'm Alberthua.
 - 📫 You can email to me through **`hualongfeiyyy@163.com`**.
 - 💾 **My container image repository is [Quay](https://quay.io/user/alberthua) and [DockerHub](https://hub.docker.com/u/alberthua).**
 - 🔗 **My blog site is [Alberthua Blog | Alberthua 的博客](https://alberthua-perl.github.io).**
-- 💎 **My technology docs is on [Tech Docs (Alberthua 的共享技术文档)](https://github.com/Alberthua-Perl/tech-docs/blob/master/README.md).**
-- 👨‍💻 I'm trying my best to learn linux kernel 🐧, container 🐳 and cloud native technologies, golang.
+- 💎 **My technology docs is on [Tech Docs (Linux 修行之道)](https://github.com/Alberthua-Perl/tech-docs/blob/master/README.md).**
+- 👨‍💻 I'm trying my best to learn linux kernel 🐧, container 🐳, cloud native technologies, python 🐍 and AI 🤖.
 - 👀 I'm interested in reading 📚, painting 🎨, calligraphy 🖌, coding 💻 and so on.
 - 🚄 I'm always travel on the way to my customers.
-- 💞 I love my wife 👩 and daughter 👧.
